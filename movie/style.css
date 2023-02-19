@@ -1,0 +1,30 @@
+body {
+  font-family: "Avenir Next";
+  background-color: rgb(107, 147, 206);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(229, 232, 238);
+}
+
+main {
+  padding: 100px 80px;
+}
+
+.header-menu {
+  display: flex;
+}
+
+.header-menu-item {
+  margin: 20px;
+}
+
+.header-menu-home {
+  margin: 20px;
+}
+
+.copy-container h1 {
+  font-size: 140px;
+}
